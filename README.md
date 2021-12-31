@@ -1,5 +1,8 @@
-Hi! My name is @F3lip32010. 
-<h1> Hi! My name is @F3lip32010 . </h1>
+
+<h1> Olá! Eu sou Felipe Meireles . </h1>
+
+- 📷 Hoje trabalho com front-end<br>
+- 🌿 Estudando Javascript
 
 <div>
   <a href="https://github.com/F3lip32010
@@ -8,11 +11,19 @@ Hi! My name is @F3lip32010.
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=jolly"/> 
 </div>
  <br>
-<div  align="center"> 
-  <a href="https://www.youtube.com/channel/UCYujEMv-LP3Qyg20PckqQFw" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div style="display> inline_block"><br>
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+  
+  
+  
+  
+  
 
- 
+  </div>
+  
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
  
