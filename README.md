@@ -11,6 +11,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=jolly"/> 
 </div>
  <br>
+  <h1>Technologias que uso no meu dia</h1>
 <div style="display> inline_block"><br>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
