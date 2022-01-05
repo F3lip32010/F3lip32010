@@ -9,7 +9,7 @@
 ">
     <h1>Redes Sociais</h1>
     <a href="https://www.youtube.com/channel/UCtPUbVQ1ciBI5CvjbuV4cqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     <a href="mailto:contato@felipemeirelessantana.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="mailto:felipemeirelessantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/code" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <h1>Estatística de Conhecimento</h1>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=F3lip32010&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
