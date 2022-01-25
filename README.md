@@ -29,8 +29,6 @@
     <a href="https://www.youtube.com/channel/UCtPUbVQ1ciBI5CvjbuV4cqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/nveA89ZU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
   
-<h1>Status: </h1>
-- 🟢 Online
  
