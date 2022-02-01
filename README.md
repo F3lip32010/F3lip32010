@@ -8,8 +8,8 @@
   <a href="https://github.com/F3lip32010
 ">
   <h1>Knowledge Statistics</h1>
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=F3lip32010&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=jolly"/> 
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=F3lip32010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=radical"/> 
 </div>
  <br>
   <h1>Technologies I use in my day</h1>
