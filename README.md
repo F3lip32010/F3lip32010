@@ -1,5 +1,5 @@
 
-# Hello, guys, I´m Felipe Meireles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello developers, I´m Felipe Meireles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👨‍💻 Today I work with front-end.<br>
 - 📖 Studying Javascript.
