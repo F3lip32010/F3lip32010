@@ -25,6 +25,7 @@
 <h1>Social networks</h1>
     <a href="https://www.youtube.com/channel/UCtPUbVQ1ciBI5CvjbuV4cqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      <a href="https://discord.gg/mRzSzJgc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+     <a href="https://open.spotify.com/user/weqbt4bky7dt26j6kin27edeu?si=02c23c3267504978" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=footer"/>
