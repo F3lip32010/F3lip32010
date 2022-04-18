@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFAE00&height=180&section=header&text=FELIPE MEIRELES &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   <br>
 
-# Hello developers, I´m Felipe Meireles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello developers, I'm Felipe Meireles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif height="30px"> Today I work with front-end.<br>
