@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFAE00&height=180&section=header&text=FELIPE MEIRELES &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5901F5&height=180&section=header&text=FELIPE MEIRELES &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   <br>
 
 # Hello developers, I'm Felipe Meireles! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -32,4 +32,4 @@
      <a href="https://open.spotify.com/user/weqbt4bky7dt26j6kin27edeu?si=02c23c3267504978" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
     <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFAE00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5901F5&height=120&section=footer"/>
