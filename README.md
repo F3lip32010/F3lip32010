@@ -13,8 +13,8 @@
 ">
   <h1>🎓 Knowledge Statistics</h1>
     <br>
-  <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api?username=F3lip32010&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=gruvbox"/> 
+  <img height="180em"align="center"src="https://github-readme-stats.vercel.app/api?username=F3lip32010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&&layout=compact&hide=shell&theme=radical"/> 
 </div>
  <br>
 <div>
