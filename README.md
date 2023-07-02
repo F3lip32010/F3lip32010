@@ -10,7 +10,7 @@
   <h1>🎓 Knowledge Statistics</h1>
   
 ![F3lip32010's Stats](https://github-readme-stats.vercel.app/api?username=F3lip32010&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-![F3lip32010's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F3lip32010&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![F3lip32010's Streak](https://github-readme-streak-stats.herokuapp.com/?user=F3lip32010&theme=midnight-purple&hide_border=false)
 
 </div>
  <br>
