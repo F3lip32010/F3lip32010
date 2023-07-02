@@ -1,9 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5901F5&height=180&section=header&text=FELIPE MEIRELES &fontSize=30&fontColor=fff"/>
-  
-
-# Hello developers, I'm Felipe Meireles! 
-
+![github-header-image (4)](https://github.com/F3lip32010/F3lip32010/assets/78237060/79ac9643-c7ae-4b25-bb45-881104df7b0b)
 
 - <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif height="30px"> Today I work with front-end.<br>
 - 📖 Studying Javascript.
