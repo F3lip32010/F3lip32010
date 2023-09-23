@@ -16,7 +16,6 @@
 </div>
  <br>
 <div>
-<div style="display> inline_block"><br>
 <img height="50" width="115" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img height="50" width="115" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img height="50" width="170" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,8 +24,9 @@
 <h1><img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Handshake.gif height="55px">Connect with me</h1>
     <br>
     <a href="https://www.youtube.com/channel/UCtPUbVQ1ciBI5CvjbuV4cqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     <a href="https://discord.gg/mRzSzJgc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-     <a href="https://open.spotify.com/user/weqbt4bky7dt26j6kin27edeu?si=02c23c3267504978" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/mRzSzJgc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://open.spotify.com/user/weqbt4bky7dt26j6kin27edeu?si=02c23c3267504978" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+    <a href = "mailto:felipemeirelessantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 30px;"></a>
+ 
 </div>
-    <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5A913&height=120&section=footer"/>
